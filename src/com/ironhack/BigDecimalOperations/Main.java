@@ -1,4 +1,4 @@
-package com.ironhack.utils;
+package com.ironhack.BigDecimalOperations;
 
 import java.math.BigDecimal;
 
