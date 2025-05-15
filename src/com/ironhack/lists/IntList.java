@@ -1,4 +1,6 @@
 package com.ironhack.lists;
 
-public class IntList {
+public interface IntList {
+    void add(int number);
+    int get(int index);
 }
